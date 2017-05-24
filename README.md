@@ -1,6 +1,8 @@
 # travelappbeta
 a REST based Web API programmed using PHP
 
+Try it - http://krate.ml/TravelAppBeta/
+
 The project is a part of a travel app project which was one of my college project. The frontend was made in .NET UWP platform.
 
 It is scripted in Object Oriented PHP. It follows MVC conventions and is structured in following way - 
@@ -10,3 +12,4 @@ It is scripted in Object Oriented PHP. It follows MVC conventions and is structu
  2) Models - This directory contains numerous classes that represents database interface of API.
  3) Controller - This directory contains the Controller class handles the request comming to API.
  4) Views - This directory classes responsible for serializing data objects into JSON.
+ 
